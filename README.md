@@ -42,6 +42,6 @@ and transactions.market_code="Mark001";`
 
 Data Analysis Using Power BI
 
-
+![Screenshot (1243)](https://github.com/user-attachments/assets/8921b3de-5772-4e6c-8d63-d441ca2cab2f)
 
 
